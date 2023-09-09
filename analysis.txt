@@ -1,0 +1,24 @@
+-Functional requiremenets:
+*Search bar
+*Able to limit or choose suitable price
+*Details about the store
+*Categories
+*Details about each category
+*Registration form
+*Location and map
+*Advertisments
+*Delivery services
+*Contact with number and email
+*Help center
+*Tips and details
+*Current date and time
+           ----------------------------------------------------------------------------------------------------------------------------
+-Non-function requirements:
+*Performance: the website  should response quickly
+*Security: wesite and user data should be protected from external threats
+*Capacity: the system needs to support at least 1000 people at once 
+*Availability: the system is avaliable all the time
+*Back-up:  the system offers the effeciency for data backup
+*Maintainability: the website should be easy to maintain and update
+*Multilingual support: the website should support multiple language
+*Usability: the website is easy to use
